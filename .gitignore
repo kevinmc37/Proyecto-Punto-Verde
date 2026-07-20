@@ -1,0 +1,6 @@
+# Archivo de configuración local con contraseñas
+Deixalleria/configmysql.php
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
