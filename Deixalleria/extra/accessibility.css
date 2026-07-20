@@ -1,0 +1,11 @@
+.access * {
+    color: black !important;
+    font-size: 40px !important;
+}
+.formWidth {
+    max-width: none !important;
+}
+.form-control-access {
+    height: 125px !important;
+    padding: 0px !important;
+}
